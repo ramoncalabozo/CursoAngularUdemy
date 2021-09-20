@@ -35,5 +35,5 @@ const nuevoPersonaje: PersonajeLOR= {
         console.log('Los puntos de vida son:', this.pv);
     }
 }
-
+    
 curar(nuevoPersonaje,20);
